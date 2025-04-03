@@ -2,3 +2,5 @@ games
 cricket
 football
 badminton
+swimming
+cycling
